@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm [Gregory]! I'm passionate about artificial intelligence and developing innovative solutions to complex problems.
+Hi, I'm Gregory! I'm passionate about artificial intelligence and developing innovative solutions to complex problems.
 
 ## 🌱 I’m currently learning...
 

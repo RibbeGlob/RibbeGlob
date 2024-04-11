@@ -1,7 +1,27 @@
-<h3 align="center">A young, ambitious mechatronics engineer, passionate about artificial intelligence.</h3>
+# Welcome to My GitHub Profile! 👋
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV**
+Hi, I'm [Gregory]! I'm passionate about artificial intelligence and developing innovative solutions to complex problems.
 
+## 🌱 I’m currently learning...
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- TensorFlow
+
+## 💼 Experience
+
+I started my adventure with programming in 2022 with hobby scripts automating functionalities in browser games. My first serious project was an engineering thesis entitled "A device supporting the supervision of milling blade wear". On April 22, 2024, I was hired as a junior python developer at ACO. My main task in this company is writing software used in intercoms.
+
+## 💻 Programming Languages
+
+- **Python:** My primary programming language, used for most of my projects and professional work.
+- **C++:** I have solid foundations in C++, understanding its syntax and concepts, which I occasionally use for more performance-intensive applications.
+
+## 📫 How to reach me?
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/grzegorz-globisz/)
+
+## 🏆 My Achievements
+
+- Engineering thesis written with a grade of 5 and defended with the same grade.
+
+Thank you for visiting my profile! I hope you find something interesting here.
+
